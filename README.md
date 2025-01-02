@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eshi1708
-- 👀 I’m interested in Computational Science, Scientific Computing, and High performance computing and Simulation
-- 🌱 I’m currently learning High performance computing and Simulation
+- 👀 I’m interested in Computational Science, Scientific Computing, Artificial intelligence/Machine Learning, and High performance computing and Simulation
+- 🌱 I’m currently learning High performance computing and Simulation, AI/ML
 
 
 <!---
